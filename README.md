@@ -3,9 +3,9 @@
 - put it inside datasets folder
 the folder architecture should be as follows:
 -----------------------------------
-| -> client //
-| -> datasets \n
-| -> server \n
+| -> client <br />
+| -> datasets <br />
+| -> server <br />
 -----------------------------------
 - unzip the testSet folder from mnist dataset inside the datasets folder
 - cd to client
