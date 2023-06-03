@@ -3,7 +3,7 @@
 - put it inside datasets folder
 the folder architecture should be as follows:
 -----------------------------------
-| -> client \n
+| -> client //
 | -> datasets \n
 | -> server \n
 -----------------------------------
