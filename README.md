@@ -1,6 +1,12 @@
 # CAM-APP
 - download the mnist dataset from : https://www.kaggle.com/datasets/scolianni/mnistasjpg
-- put it inside datasets folder.
+- put it inside datasets folder
+the folder architecture should be as follows:
+-----------------------------------
+| -> client
+| -> datasets
+| -> server
+-----------------------------------
 - unzip the testSet folder from mnist dataset inside the datasets folder
 - cd to client
 - run the commend : npm i
